@@ -11,7 +11,7 @@ This project follows the Apache Software Foundation Code of Conduct. Be respectf
 1. **Fork the repository** on GitHub
 2. **Clone your fork**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin.git
+   git clone https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin.git
    cd dev-telemetry-devlake-plugin
    ```
 3. **Create a feature branch**:
@@ -149,7 +149,7 @@ make fmt
 
 ### Bug Report Template
 
-Use [GitHub Issues](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/issues/new) and include:
+Use [GitHub Issues](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/issues/new) and include:
 
 ```markdown
 **Description**
@@ -184,7 +184,7 @@ Any other relevant information
 
 ## Feature Requests
 
-Use [GitHub Discussions](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/discussions) for feature requests.
+Use [GitHub Discussions](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/discussions) for feature requests.
 
 Include:
 - **Use case** - Why is this needed?
@@ -275,8 +275,8 @@ Fixes #456
 ### Getting Help
 
 - Read the [documentation](README.md)
-- Check [existing issues](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/issues)
-- Ask in [discussions](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/discussions)
+- Check [existing issues](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/issues)
+- Ask in [discussions](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/discussions)
 - Reference [DevLake docs](https://devlake.apache.org/)
 
 ## Recognition

@@ -18,17 +18,17 @@ This is the fastest method if a pre-built binary is available for your DevLake v
 
    ```bash
    # Download from GitHub releases
-   wget https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so
+   wget https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so
    
    # Or using curl
-   curl -LO https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so
+   curl -LO https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so
    ```
 
 2. **Verify the download (optional but recommended)**
 
    ```bash
    # Download checksum
-   wget https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so.sha256
+   wget https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so.sha256
    
    # Verify
    shasum -a 256 -c developer_telemetry.so.sha256
@@ -94,7 +94,7 @@ make build
 
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin.git /tmp/dev-telemetry-plugin
+git clone https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin.git /tmp/dev-telemetry-plugin
 
 # Copy plugin source to DevLake
 cp -r /tmp/dev-telemetry-plugin/plugins/developer_telemetry plugins/
@@ -285,7 +285,7 @@ mysql -u devlake -p devlake -e "SELECT * FROM _tool_developer_metrics WHERE deve
 
 ```bash
 # Download new version
-wget https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases/download/v0.2.0/developer_telemetry.so
+wget https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases/download/v0.2.0/developer_telemetry.so
 
 # Backup old version
 cp bin/plugins/developer_telemetry/developer_telemetry.so bin/plugins/developer_telemetry/developer_telemetry.so.backup

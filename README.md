@@ -35,7 +35,7 @@ This plugin follows a **push-based webhook model** where local telemetry collect
 ## Installation
 
 > ⚠️ **IMPORTANT**: The pre-built binary is NOT included in the git repository. You must either:
-> - Download it from [GitHub Releases](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases), OR
+> - Download it from [GitHub Releases](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases), OR
 > - Build from within the DevLake monorepo (building from this standalone repo will fail)
 
 > ⚠️ **VERSION COMPATIBILITY**: Pre-built binaries are version-specific to DevLake. If you get a version mismatch error, you must rebuild against your DevLake version.
@@ -44,7 +44,7 @@ This plugin follows a **push-based webhook model** where local telemetry collect
 
 ```bash
 # Download from GitHub releases
-wget https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so
+wget https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so
 
 # Copy to DevLake plugins directory
 mkdir -p /path/to/devlake/backend/bin/plugins/developer_telemetry/
@@ -357,5 +357,5 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ## Support
 
 - 📖 [Documentation](docs/)
-- 🐛 [Issue Tracker](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/issues)
-- 💬 [Discussions](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/discussions)
+- 🐛 [Issue Tracker](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/issues)
+- 💬 [Discussions](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/discussions)

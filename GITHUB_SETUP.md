@@ -18,8 +18,8 @@ This guide walks you through creating a GitHub repository and pushing your plugi
 ```bash
 cd /Users/irfan.ahmad/arbisoft-src/dev-telemetry-devlake-plugin
 
-# Add GitHub remote (replace YOUR_USERNAME with your GitHub username)
-git remote add origin https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin.git
+# Add GitHub remote (replace irfanuddinahmad with your GitHub username)
+git remote add origin https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin.git
 
 # Verify remote
 git remote -v
@@ -35,7 +35,7 @@ git push -u origin main
 
 1. Go to your repository on GitHub
 2. Edit `README.md`
-3. Replace `YOUR_USERNAME` with your actual GitHub username in all URLs:
+3. Replace `irfanuddinahmad` with your actual GitHub username in all URLs:
    - Release download URLs
    - Badge URLs
    - Issue tracker URLs
@@ -111,7 +111,7 @@ First stable release of the Developer Telemetry plugin for Apache DevLake.
 
 ### Installation
 
-Download `developer_telemetry.so` and follow the [installation guide](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin#installation).
+Download `developer_telemetry.so` and follow the [installation guide](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin#installation).
 
 ### What's New
 
@@ -207,9 +207,9 @@ Update your README.md with dynamic badges:
 ```markdown
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?logo=go)](https://go.dev/)
-[![GitHub release](https://img.shields.io/github/v/release/YOUR_USERNAME/dev-telemetry-devlake-plugin)](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases)
-[![GitHub issues](https://img.shields.io/github/issues/YOUR_USERNAME/dev-telemetry-devlake-plugin)](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/issues)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/dev-telemetry-devlake-plugin)](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/irfanuddinahmad/dev-telemetry-devlake-plugin)](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases)
+[![GitHub issues](https://img.shields.io/github/issues/irfanuddinahmad/dev-telemetry-devlake-plugin)](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/issues)
+[![GitHub stars](https://img.shields.io/github/stars/irfanuddinahmad/dev-telemetry-devlake-plugin)](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/stargazers)
 ```
 
 ## Step 7: Create Contributing Guidelines
@@ -224,7 +224,7 @@ Thank you for your interest in contributing!
 ## Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin.git`
+2. Clone your fork: `git clone https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin.git`
 3. Create a branch: `git checkout -b feature/my-feature`
 4. Make your changes
 5. Test your changes
@@ -252,7 +252,7 @@ See [README.md](README.md#development) for setup instructions.
 
 ## Reporting Bugs
 
-Use [GitHub Issues](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/issues) to report bugs.
+Use [GitHub Issues](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/issues) to report bugs.
 
 Include:
 - DevLake version
@@ -263,7 +263,7 @@ Include:
 
 ## Feature Requests
 
-Use [GitHub Discussions](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/discussions) for feature requests.
+Use [GitHub Discussions](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/discussions) for feature requests.
 ```
 
 ## Step 8: Add License Information
@@ -309,7 +309,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - JSON storage for arrays and maps
 - Composite primary key (connection_id, developer_id, date)
 
-[0.1.0]: https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases/tag/v0.1.0
+[0.1.0]: https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases/tag/v0.1.0
 ```
 
 ## Step 10: Final Commit and Push
@@ -356,7 +356,7 @@ git push origin main
 
 - DevLake Documentation: https://devlake.apache.org/
 - DevLake GitHub: https://github.com/apache/incubator-devlake
-- Your Plugin Issues: https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/issues
+- Your Plugin Issues: https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/issues
 
 ---
 

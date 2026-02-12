@@ -10,7 +10,7 @@ Get up and running with the Developer Telemetry DevLake plugin in 5 minutes.
 
 ```bash
 # Download from GitHub releases
-wget https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so
+wget https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/releases/latest/download/developer_telemetry.so
 
 # Copy to DevLake plugins directory
 mkdir -p /path/to/devlake/backend/bin/plugins/developer_telemetry/
@@ -276,4 +276,4 @@ See the [docs/examples](docs/examples) directory for:
 Need help? Check:
 - [Full Documentation](../README.md)
 - [API Reference](docs/API.md)
-- [GitHub Issues](https://github.com/YOUR_USERNAME/dev-telemetry-devlake-plugin/issues)
+- [GitHub Issues](https://github.com/irfanuddinahmad/dev-telemetry-devlake-plugin/issues)
