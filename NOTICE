@@ -1,0 +1,34 @@
+Developer Telemetry Plugin for Apache DevLake
+Copyright 2026
+
+This product includes software developed by contributors and is
+distributed under the Apache License 2.0.
+
+This product includes software developed at
+The Apache Software Foundation (http://www.apache.org/).
+
+---
+
+Third-Party Dependencies:
+
+This plugin depends on the following open source projects:
+
+1. Apache DevLake (Apache License 2.0)
+   https://github.com/apache/incubator-devlake
+   Copyright The Apache Software Foundation
+
+2. GORM (MIT License)
+   https://github.com/go-gorm/gorm
+   Copyright 2013-present Jinzhu
+
+3. Gin Web Framework (MIT License)
+   https://github.com/gin-gonic/gin
+   Copyright 2014 Manu Martinez-Almeida
+
+4. mapstructure (MIT License)
+   https://github.com/mitchellh/mapstructure
+   Copyright 2013 Mitchell Hashimoto
+
+---
+
+See LICENSE file for the full Apache License 2.0 text.
